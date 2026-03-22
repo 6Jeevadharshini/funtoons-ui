@@ -25,7 +25,7 @@ body {
     color: #333;
 
     /* 🔥 FIXED BACKGROUND */
-    background-image: url("./rainbow.png");
+    background-image: url("rainbow.png");
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -91,7 +91,7 @@ p {
     width: 100%;
 
     /* 🔥 FIXED HERO IMAGE */
-    background-image: url("./learn.png");
+    background-image: url("learn.png");
     background-size: cover;
     background-position: center;
 
